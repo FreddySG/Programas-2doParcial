@@ -1,2 +1,2 @@
 # Programas-2doParcial
-Es un archivo comprimido de texmaker
+aqui estan los programas ejecutables y sus capturas, al igual que el archivo comprimido de los  programas en equipo
